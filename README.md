@@ -1,4 +1,5 @@
-#Understanding Address Types of Different Blockchains
+# Understanding Address Types of Different Blockchains
+
 To identify which blockchain a cryptocurrency address belongs to, you typically need to examine the address format and any prefix or characteristics unique to that blockchain. Here's how you can do it for some of the most common blockchains:
 
 1. **Bitcoin (BTC)**:
